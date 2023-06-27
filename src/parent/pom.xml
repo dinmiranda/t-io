@@ -44,7 +44,7 @@
 		<mysql.driver.version>8.0.21</mysql.driver.version><!-- 5.1.46 -->
 		<druid.version>1.1.23</druid.version>
 		<HikariCP.version>3.4.5</HikariCP.version>
-		<jfinal.version>4.9</jfinal.version>
+		<jfinal.version>5.0.1</jfinal.version>
 		<logback.version>1.2.3</logback.version>
 		<slf4j.version>1.7.26</slf4j.version>
 		<jdk.version>1.8</jdk.version>
@@ -54,7 +54,7 @@
 		<commons-lang3.version>3.11</commons-lang3.version>
 		<commons-codec.version>1.14</commons-codec.version>
 		<commons-compress.version>1.20</commons-compress.version>
-		<fastjson.version>1.2.73</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<testng.version>7.1.0</testng.version>
 		<hutool.version>5.3.10</hutool.version>
 		<protobuf-java.version>3.12.2</protobuf-java.version>
