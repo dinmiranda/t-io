@@ -35,7 +35,7 @@
 
 	<properties>
 		<maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
-		<tio.version>3.6.2.v20200808-RELEASE</tio.version>
+		<tio.version>3.8.5.v20230901-RELEASE</tio.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.test.skip>true</maven.test.skip>
@@ -61,7 +61,7 @@
 		<commons-beanutils.version>1.9.4</commons-beanutils.version>
 		<protobuf-java-format.version>1.4</protobuf-java-format.version>
 		<protostuff.version>1.7.2</protostuff.version>
-		<redisson.version>3.13.3</redisson.version>
+		<redisson.version>3.21.1</redisson.version>
 		<jodd.version>5.1.5</jodd.version>
 		<quartz.version>2.3.2</quartz.version>
 		<caffeine.version>2.8.5</caffeine.version>
